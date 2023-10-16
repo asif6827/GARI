@@ -1,4 +1,4 @@
-# GARI:GARI: Graph Attention for Relative Isomorphism of Arabic Word Embeddings
+# GARI: Graph Attention for Relative Isomorphism of Arabic Word Embeddings
 
 This is an implementation of the experiments and combination system presented in:
 
